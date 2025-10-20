@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600;700&display=swap');
+
+:root{
+  --bg:#0b1220;
+  --card:#111a2b;
+  --muted:#8fa3bf;
+  --text:#e6edf6;
+  --accent:#0ea5e9;
+  --ok:#34d399;
+  --danger:#ef4444;
+  --radius:16px;
+  --shadow:0 10px 30px rgba(0,0,0,.25);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; 
+  padding:24px;
+  font-family:Kanit, system-ui, sans-serif;
+  background:linear-gradient(120deg,#0b1220 0%, #0e172b 100%);
+  color:var(--text);
+}
+.container{
+  max-width:1300px;
+  margin:0 auto}
+.head{
+  display:flex; 
+  gap:16px; 
+  align-items:center; 
+  flex-wrap:wrap; 
+  margin-bottom:18px;
+}
+h1{
+  font-weight:700; 
+  letter-spacing:.3px; 
+  margin:0 0 6px}
+
+.card{
+  background:var(--card); 
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:var(--radius); 
+  box-shadow:var(--shadow);
+}
+.toolbar{
+  padding:14px; 
+  display:flex; 
+  gap:10px; 
+  flex-wrap:wrap; 
+  align-items:center
+}
+select, input, button{
+  padding:10px 12px; 
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,.15);
+  background:#0c1625; 
+  color:var(--text);
+  outline:none;
+}
+button{
+  cursor:pointer}
+button.primary{
+  background:var(--accent); 
+  border-color:transparent; 
+  color:white}
+button.ghost{
+  background:transparent}
+button.danger{
+  background:var(--danger); 
+  color:white; 
+  border-color:transparent}
+.grid{
+  display:grid; 
+  gap:14px; 
+  padding:14px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.product{
+  padding:14px;
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:14px;
+}
+.product .name{
+  font-weight:700; 
+  font-size:18px; 
+  margin-bottom:6px}
+.meta{
+  font-size:14px;
+   color:var(--muted)}
+.price{
+  margin-top:8px; 
+  font-weight:700}
+.badge{
+  display:inline-block; 
+  padding:4px 10px; 
+  border-radius:999px; 
+  font-size:12px;
+  background:#0f223a;
+  border:1px solid rgba(255,255,255,.1); color:#b9d6ff}
+.table{
+  width:100%;
+  border-collapse:collapse; 
+  font-size:14px}
+.table th, .table td{
+  text-align:left; 
+  padding:10px; 
+  border-bottom:1px solid rgba(255,255,255,.08)}
+.table-actions{
+  display:flex; 
+  gap:8px}
+.form-grid{
+  display:grid; 
+  gap:10px; 
+  grid-template-columns:repeat(2,1fr)}
+@media (max-width:640px){ 
+  .form-grid{grid-template-columns:1fr}}
+.small{
+  font-size:12px; 
+  color:var(--muted);}

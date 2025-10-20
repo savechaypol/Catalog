@@ -1,0 +1,266 @@
+[
+  {
+    "id": "58c29043-9ac1-4169-8fe7-948aec80d325",
+    "category": "ไฟฟ้า",
+    "name": "PLC",
+    "brand": "Siemens",
+    "model": "6ES7214-1HG40-0XB0",
+    "price": 14978
+  },
+  {
+    "id": "07a91114-2a8a-4112-a85d-e2a1b2394f3b",
+    "category": "ไฟฟ้า",
+    "name": "PLC",
+    "brand": "Mitsubishi",
+    "model": "FX3U-485ADP-MB",
+    "price": 4516
+  },
+  {
+    "id": "a9995631-7357-4a8e-8b05-c3f8f0c91dc5",
+    "category": "ไฟฟ้า",
+    "name": "Ground Test Box",
+    "brand": "KUMWELL",
+    "model": "GYATB-AC",
+    "price": 1800
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd678",
+    "category": "ไฟฟ้า",
+    "name": "สายไฟ THW 3×2.5 มม.",
+    "brand": "YAZAKI",
+    "model": "THW-2.5",
+    "price": 95
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd679",
+    "category": "ไฟฟ้า",
+    "name": "เบรกเกอร์ 3-Pole 100A",
+    "brand": "SCHNEIDER",
+    "model": "NSX100F",
+    "price": 8200
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd680",
+    "category": "ไฟฟ้า",
+    "name": "โคมไฟ LED ตอนติดเพดาน 36W",
+    "brand": "BEC",
+    "model": "O-KIT II 36W/6500K",
+    "price": 199
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd681",
+    "category": "ไฟฟ้า",
+    "name": "ตู้คอนซูมเมอร์ยูนิต (Consumer Unit) 1-Phase",
+    "brand": "PANASONIC",
+    "model": "DB-1000",
+    "price": 2550
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd682",
+    "category": "ไฟฟ้า",
+    "name": "เต้ารับ-ปลั๊กไฟ 2 ช่อง",
+    "brand": "SCHNEIDER",
+    "model": "WP6C02-WB",
+    "price": 175
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd683",
+    "category": "ไฟฟ้า",
+    "name": "ท่อร้อยสายไฟ PVC Ø20mm",
+    "brand": "T.K.",
+    "model": "PVC-20",
+    "price": 38
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd684",
+    "category": "ไฟฟ้า",
+    "name": "อุปกรณ์ดึงสายไฟ (Cable Puller) แบบมือ",
+    "brand": "KNIPEX",
+    "model": "87 63 03",
+    "price": 1290
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd685",
+    "category": "ไฟฟ้า",
+    "name": "ฟิวส์กระแสสูง 63A",
+    "brand": "OMRON",
+    "model": "S82K-63",
+    "price": 630
+  },
+  {
+    "id": "b12cd34f-c234-12d4-e7f8-12345abcd686",
+    "category": "ไฟฟ้า",
+    "name": "รางเก็บสายไฟอลูมิเนียม แบบเลื่อนฝา",
+    "brand": "Legrand",
+    "model": "DLP 100×60",
+    "price": 1750
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh789",
+    "category": "เครื่องกล",
+    "name": "มอเตอร์ AC 1.5kW 220V",
+    "brand": "SIEMENS",
+    "model": "1LE1001-1AA60-4AB1",
+    "price": 15800
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh790",
+    "category": "เครื่องกล",
+    "name": "เครื่องเจียรไฟฟ้า 4″",
+    "brand": "MAKITA",
+    "model": "GA4031",
+    "price": 3490
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh791",
+    "category": "เครื่องกล",
+    "name": "ชุดประแจบล็อก Mechanic 23 ชิ้น",
+    "brand": "FACOM",
+    "model": "JR.23PB",
+    "price": 6200
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh792",
+    "category": "เครื่องกล",
+    "name": "เครื่องอัดลม 50L 2 แรงม้า",
+    "brand": "BOSTON",
+    "model": "AC1850-50L",
+    "price": 9850
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh793",
+    "category": "เครื่องกล",
+    "name": "ปั๊ม น้ำ 200 ลิตร/นาที",
+    "brand": "SHIMGE",
+    "model": "TSW200-200",
+    "price": 7450
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh794",
+    "category": "เครื่องกล",
+    "name": "เครื่องตัดโลหะ CNC Laser 3000W",
+    "brand": "AMADA",
+    "model": "LC-3000Q",
+    "price": 265000
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh795",
+    "category": "เครื่องกล",
+    "name": "ลิฟต์ยกรถ 2 เสา 3.5-ตัน",
+    "brand": "SPN",
+    "model": "SPN35K",
+    "price": 128000
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh796",
+    "category": "เครื่องกล",
+    "name": "เครื่องมือวัดดิจิตอล (Caliper 300mm)",
+    "brand": "MITUTOYO",
+    "model": "500-196-30",
+    "price": 5750
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh797",
+    "category": "เครื่องกล",
+    "name": "เครื่องเจาะเรเดียล Radial Drill 650mm",
+    "brand": "FUJI",
+    "model": "FRD-650A",
+    "price": 442000
+  },
+  {
+    "id": "c23ef67g-d345-56f7-h8i9-23456efgh798",
+    "category": "เครื่องกล",
+    "name": "แม่แรงยกรถ แบบกระปุก 3-ตัน",
+    "brand": "TONE",
+    "model": "JH-3000",
+    "price": 2150
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl890",
+    "category": "โยธา",
+    "name": "เหล็กข้ออ้อย 12 มม. SD40 (เส้น)",
+    "brand": "-",
+    "model": "12 mm SD40",
+    "price": 240
+  },
+  {
+    "id": "d34gh89i-e456-78j9-­k0l1-34567ijkl891",
+    "category": "โยธา",
+    "name": "อิฐมอญตัน",
+    "brand": "-",
+    "model": "-",
+    "price": 2
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl892",
+    "category": "โยธา",
+    "name": "ปูนซีเมนต์ พอร์ตแลนด์ ตรา เสือ",
+    "brand": "TPI",
+    "model": "เขียว",
+    "price": 125
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl893",
+    "category": "โยธา",
+    "name": "ทรายหยาบ (คิว)",
+    "brand": "-",
+    "model": "ทรายหยาบ",
+    "price": 550
+  },
+  {
+    "id": "d34gh89i-e456-78j9-­k0l1-34567ijkl894",
+    "category": "โยธา",
+    "name": "หินคลุก (คัน)",
+    "brand": "-",
+    "model": "หินคลุก",
+    "price": 2600
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl895",
+    "category": "โยธา",
+    "name": "แผ่นเหล็ก กัลวาไนซ์ 3 × 6 ฟุต",
+    "brand": "-",
+    "model": "3×6 ฟุต",
+    "price": 250
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl896",
+    "category": "โยธา",
+    "name": "บล็อกคอนกรีต (ก้อน)",
+    "brand": "-",
+    "model": "-",
+    "price": 7
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl897",
+    "category": "โยธา",
+    "name": "แผ่นอลูมิเนียม 3×6 ฟุต",
+    "brand": "-",
+    "model": "3×6 ฟุต",
+    "price": 220
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl898",
+    "category": "โยธา",
+    "name": "น้ำยากันซึม 5 ลิตร",
+    "brand": "-",
+    "model": "-",
+    "price": 350
+  },
+  {
+    "id": "d34gh89i-e456-78j9-k0l1-34567ijkl899",
+    "category": "โยธา",
+    "name": "แผ่นไม้ MDF 18 มม. 4×8 ฟุต",
+    "brand": "-",
+    "model": "18 มม. 4×8",
+    "price": 790
+  },
+  {
+    "id": "dc6b9874-523f-4bd0-8f4f-8287871d6889",
+    "category": "ไฟฟ้า",
+    "name": "Access Point",
+    "brand": "ARUBA",
+    "model": "AP-505",
+    "price": 24000
+  }
+]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FVC | Admin</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="head">
+      <div>
+        <h1>แอดมินจัดการสินค้า</h1>
+        <div class="small">เพิ่ม แก้ไข และลบสินค้าได้</div>
+      </div>
+      <a href="/" style="margin-left:auto"><button class="ghost">← กลับหน้ารายการ</button></a>
+    </div>
+    <!-- ===== เพิ่ม/แก้ไข สินค้า ===== -->
+    <div class="card" style="padding:14px">
+      <h3 style="margin:6px 0 12px">เพิ่ม/แก้ไข สินค้า</h3>
+      <form id="form" class="form-grid">
+        <input type="hidden" id="id" />
+        <div>
+          <label>หมวดสินค้า</label>
+          <select id="category" required>
+            <option value="">-- เลือกหมวด --</option>
+          </select>
+        </div>
+        <div>
+          <label>ชื่อสินค้า</label>
+          <input id="name" required placeholder="เช่น PLC / Access Point" />
+        </div>
+        <div>
+          <label>แบรนด์</label>
+          <input id="brand" placeholder="เช่น  Mitsubishi / KUMWELL" />
+        </div>
+        <div>
+          <label>หมายเลขหรุ่น</label>
+          <input id="model" placeholder="เช่น AP-505" />
+        </div>
+        <div>
+          <label>ราคา (บาท)</label>
+          <input id="price" type="number" min="0" step="1" placeholder="เช่น 2000.00" />
+        </div>
+        <div style="display:flex; gap:8px; align-items:end">
+          <button class="primary" type="submit">บันทึก</button>
+          <button class="ghost" type="reset" id="clear">ล้างฟอร์ม</button>
+        </div>
+      </form>
+    </div>
+    <!-- ===== รายการสินค้า ===== -->
+    <div class="card" style="margin-top:16px; padding:14px">
+      <h3 style="margin:6px 0 12px">รายการสินค้า</h3>
+      <table class="table" id="table">
+        <thead>
+          <tr>
+            <th>หมวด</th>
+            <th>ชื่อสินค้า</th>
+            <th>แบรนด์</th>
+            <th>รุ่น</th>
+            <th>ราคา</th>
+            <th style="width:160px">จัดการ</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="admin.js" defer></script>
+</body>
+</html>
